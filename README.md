@@ -1,2 +1,2 @@
 # Complete-jQuery-Basics
-Click [here](https://jquery.com/) to go to jQuery Official Documentation.<br>
+Click [here](https://jquery.com/) to know more about jQuery.
